@@ -70,4 +70,4 @@ print("--------------------------------------------------------------")
 ![image](https://github.com/Jayabharathi3/Muttiple-capacity-with-infinite-capacity/assets/120367796/954f19bc-33c0-42c4-92ad-47aeb4cc081a)
 
 ## Result : 
-
+Thus the average number of materials in the system and conveyor,waiting time for each material in the system and conveyor is found successfully
